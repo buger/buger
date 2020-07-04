@@ -11,7 +11,7 @@ Author of one of the fasters [JSON parsers](https://github.com/buger/jsonparser)
 
 📫 How to reach me:
 - https://twitter.com/buger
-- mailto:leonsbox@gmail.com
+- leonsbox@gmail.com
 - https://www.linkedin.com/in/leonidbugaev/
 
 
