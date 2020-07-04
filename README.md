@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+At the moment i'm Head of Engineering at https://Tyk.io.
+
+In spare time trying to change the way how people test thigns. See [GoReplay](https://goreplay.org)
+
+Author of one of the fasters [JSON parsers](https://github.com/buger/jsonparser) for Go.
+
+  
+
+
+📫 How to reach me:
+- https://twitter.com/buger
+- mailto:leonsbox@gmail.com
+- https://www.linkedin.com/in/leonidbugaev/
+
+
+
 <!--
 **buger/buger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
