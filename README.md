@@ -2,6 +2,8 @@
 
 At the moment i'm Head of Engineering at https://Tyk.io.
 
+Solving AI Code Search with https://probeai.dev
+
 Helping Open Source projects finding its contributors - https://helpwanted.dev 
 
 In spare time trying to change the way people approach automated testing. See [GoReplay](https://goreplay.org)
