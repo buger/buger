@@ -1,36 +1,28 @@
-### Hi there 👋
+### Hi, I'm Leonid 👋
 
-At the moment i'm Head of Engineering at https://Tyk.io.
+**Founder of [Proof](https://reqproof.com)** — machine-verified correctness labels for coding models and RL training.
 
-Solving AI Code Search with https://probeai.dev
+We take a buyer-licensed codebase and produce:
+- Multi-level requirement hierarchy with graded hazards
+- Code ↔ test annotations
+- Full MC/DC coverage
+- Human-signed findings with executable reproducers
 
-Helping Open Source projects finding its contributors - https://helpwanted.dev 
+**Public demonstration** on [jsonparser](https://github.com/buger/jsonparser) (the library I originally wrote):  
+full hierarchy + 100% MC/DC, yet still 7 real bugs — including a silent data-loss defect that escaped complete condition coverage.
 
-In spare time trying to change the way people approach automated testing. See [GoReplay](https://goreplay.org)
+→ [reqproof.com/correctness-labels](https://reqproof.com/correctness-labels)
 
-Author of one of the fasters [JSON parsers](https://github.com/buger/jsonparser) for Go.
+---
 
-  
+### Background
+- Head of Engineering at [Tyk](https://tyk.io)
+- Author of [jsonparser](https://github.com/buger/jsonparser) — THE fastest JSON parsers for Go
+- Creator of [GoReplay](https://github.com/buger/goreplay) — traffic replay & testing infrastructure
+- Creator of [helpwanted.dev](https://helpwanted.dev) - helping OSS communities with contributors
+- Previously: [probeai.dev](https://probelabs.com) (AI code search)
 
-
-📫 How to reach me:
-- https://twitter.com/buger
-- leonsbox@gmail.com
-- https://www.linkedin.com/in/leonidbugaev/
-
-
-
-<!--
-**buger/buger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email: leonsbox@gmail.com
+- X: [@buger](https://twitter.com/buger)
+- LinkedIn: [leonidbugaev](https://www.linkedin.com/in/leonidbugaev/)
