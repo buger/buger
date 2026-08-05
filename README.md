@@ -1,12 +1,8 @@
 ### Hi, I'm Leonid 👋
 
-**Founder of [Proof](https://reqproof.com)** — machine-verified correctness labels for coding models and RL training.
+**Founder of [Proof](https://reqproof.com)** — Prove your software does what you promised
 
-We take a buyer-licensed codebase and produce:
-- Multi-level requirement hierarchy with graded hazards
-- Code ↔ test annotations
-- Full MC/DC coverage
-- Human-signed findings with executable reproducers
+Your application makes promises: in contracts, in docs, in what sales sold. We turn them into requirements your engineers sign, then hold the code to them with formal proofs, condition-level coverage, and findings that arrive as runnable reproducers. The audit installs in your CI, starts with the component where failure costs you most, and widens quarter by quarter; the corpus compounds until it covers what matters.
 
 **Public demonstration** on [jsonparser](https://github.com/buger/jsonparser) (the library I originally wrote):  
 full hierarchy + 100% MC/DC, yet still 7 real bugs — including a silent data-loss defect that escaped complete condition coverage.
